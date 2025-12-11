@@ -24,5 +24,5 @@ The analysis uses three main datasets:
 - Reusable Views: VW_Sales_Metrics, VW_Percentage_Yearly_Sales
 - Stored Procedures: Dynamic sales reporting by category
 
-## Folder Structure
+
 
